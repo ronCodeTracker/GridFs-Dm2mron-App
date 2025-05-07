@@ -32,7 +32,7 @@ const connectDB = async () => {
 const gfs = mongoose.connection; // Export the connection
 
 
-module.exports.connectDB = {connectDB, gfs};
+module.exports = {connectDB, gfs};
 
 
 

@@ -1,0 +1,11 @@
+{
+  "name": "gridfs-dm2mron",
+  "version": "1.0.0",
+  "description": "Video application for Deron Highwater for his drone footage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronald Earthdog",
+  "license": "ISC"
+}
